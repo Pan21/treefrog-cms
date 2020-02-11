@@ -57,7 +57,8 @@ p {
     align-items: center; }
     .nav .left-nav-holder .link-holder {
       height: 100%;
-      position: relative; }
+      position: relative;
+      cursor: pointer; }
       .nav .left-nav-holder .link-holder a {
         margin-top: 31px;
         color: #f2f2f2;
